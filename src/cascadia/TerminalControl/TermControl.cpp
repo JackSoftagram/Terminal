@@ -2,15 +2,15 @@
 // Licensed under the MIT license.
 
 #include "pch.h"
-#include "TermControl.h"
-#include <argb.h>
+//#include "TermControl.h"
+//#include <argb.h>
 #include <DefaultSettings.h>
 #include <unicode.hpp>
 #include <Utf16Parser.hpp>
 #include "..\..\types\inc\GlyphWidth.hpp"
 
 using namespace ::Microsoft::Console::Types;
-using namespace ::Microsoft::Terminal::Core;
+//using namespace ::Microsoft::Terminal::Core;
 using namespace winrt::Windows::UI::Xaml;
 using namespace winrt::Windows::UI::Core;
 using namespace winrt::Windows::System;
